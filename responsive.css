@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+
+body 
+{
+	padding-top: 230px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+
+
+#row1col1
+{
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+}
+
+#row2
+{
+	background-color:#f3f3f3;
+	border-top:2px solid #CCC;
+}
+
+
+#form
+{
+	width:80%;
+	border:5px solid #3c2f1c;
+	border-radius:10px;
+	background-color:#3c2f1c;
+}
+
+#form-inside
+{
+	border-radius:5px;
+	background-color:#CCC;
+	padding:10px;
+}
+
+#footer
+{
+	background-color:#f3f3f3;
+	border-top:2px solid #CCC;
+}
+
+/*CLASSES*/
+
+.image-center
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.text-handwriting
+{
+	font-family: 'Schoolbell', arial, serif;
+}
+
+.text-white
+{
+	color:#FFFFFF;
+}
+
+.text-small
+{
+	font-size:12px;
+}
+
+.text-medium
+{
+	font-size:16px;
+}
+
+.text-large
+{
+	font-size:20px;
+}
+
+.text-xlarge
+{
+	font-size:36px
+}
+
+.text-padding
+{
+	padding:10px;
+}
+
+.bck-color-brown
+{
+	background-color:#3c2f1c;
+}
+
